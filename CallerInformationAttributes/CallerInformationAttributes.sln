@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallerInformationAttributes", "CallerInformationAttributes.csproj", "{AF418074-D522-4A6D-BDE6-702314830C7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF418074-D522-4A6D-BDE6-702314830C7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF418074-D522-4A6D-BDE6-702314830C7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF418074-D522-4A6D-BDE6-702314830C7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF418074-D522-4A6D-BDE6-702314830C7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E550A13F-F4CA-4600-8784-363E29C46C40}
+	EndGlobalSection
+EndGlobal
