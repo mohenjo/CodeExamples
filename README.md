@@ -38,6 +38,8 @@
     + `./TempPathGeneration`
 + [Python] 구 01X 휴대폰 번호에 대응하는 010 번호 반환
     + `./MobileNumConverter`
++ [Python] 동행복권 (로또6/45) 회차별 당첨번호 크롤링
+    + `./GetLottoNumHistory`
 
 
 
